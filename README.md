@@ -1,4 +1,4 @@
-<h1 align="center">👽 Belannandere / Junior coder</h1>
+<h1 align="center">👽 teraari / Junior coder</h1>
 
 ###
 
